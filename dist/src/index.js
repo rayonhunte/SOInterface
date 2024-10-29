@@ -1,1 +1,1 @@
-export { Button as SOButton } from './components/ui/Button';
+export { default as SOButton } from './components/ui/Button';

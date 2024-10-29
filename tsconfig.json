@@ -10,8 +10,8 @@
     "skipLibCheck": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "noEmit": false, // Change this to false to enable emitting output
-    "outDir": "./dist", // Add this line to specify the output directory
+    "noEmit": false,
+    "outDir": "./dist",
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "node",
